@@ -1,0 +1,593 @@
+Field Name,Field ID,Crop,CO2 Total,CO2 Pest,N Fert,Fuel
+1_#3,1_#3_2004,Winter wheat,2094.904219,180.4,1072.844889,7.504
+1_#3,1_#3_2005,Other,1776.695555,61.5,961.342049,7.504
+1_#3,1_#3_2006,Winter wheat,1659.410335,139.4,857.714654,3.752
+1_#3,1_#3_2007,Winter wheat,1429.961981,139.4,738.0235799,3.752
+1_#3,1_#3_2008,Barley,1736.208952,287,818.2836003,7.504
+1_#3,1_#3_2009,Other,1952.502626,184.5,988.4456642,11.256
+1_#3,1_#3_2010,Winter wheat,1492.405696,98.4,789.4220921,7.504
+1_#3,1_#3_2011,Barley,1699.522458,80.975,908.5968645,7.504
+1_#3,1_#3_2012,Other,2214.035873,312.338,1061.315126,15.008
+1_#3,1_#3_2013,Winter wheat,1969.79331,34.891,1084.462398,7.504
+1_#3,1_#3_2014,Winter wheat,2256.870949,134.275,1193.130796,7.504
+1_24.acre,1_24.acre_2011,Winter wheat,2169.73692,262.4,933.9688543,7.504
+1_24.acre,1_24.acre_2012,Winter wheat,2087.73692,180.4,933.9688543,7.504
+1_24.acre,1_24.acre_2013,Barley,1260.886966,276.75,493.7009332,7.504
+1_24.acre,1_24.acre_2014,Winter wheat,2335.302721,332.1,982.179743,11.256
+1_angels.piece,1_angels.piece_2010,Other,1927.225185,167.69,860.1637781,3.752
+1_angels.piece,1_angels.piece_2011,Winter wheat,2126.454486,305.86,887.3773319,11.256
+1_angels.piece,1_angels.piece_2012,Winter wheat,2095.130486,274.536,887.3773319,11.256
+1_angels.piece,1_angels.piece_2013,Dry Bean,475.0541573,303.236,160.5621573,11.256
+1_back.of.hovels,1_back.of.hovels_2004,Winter wheat,1798.152358,282.9,673.5930286,7.504
+1_back.of.hovels,1_back.of.hovels_2005,Other,1789.608122,112.75,747.3929681,7.504
+1_back.of.hovels,1_back.of.hovels_2006,Winter wheat,1634.152358,118.9,673.5930286,7.504
+1_back.of.hovels,1_back.of.hovels_2007,Other,1783.458122,106.6,747.3929681,7.504
+1_back.of.hovels,1_back.of.hovels_2008,Winter wheat,1556.252358,41,673.5930286,7.504
+1_back.of.hovels,1_back.of.hovels_2009,Other,1907.197534,106.6,805.278012,7.504
+1_back.of.hovels,1_back.of.hovels_2010,Winter wheat,1777.652358,262.4,673.5930286,7.504
+1_back.of.hovels,1_back.of.hovels_2011,Other,2028.762122,344.4,747.3929681,15.008
+1_back.of.hovels,1_back.of.hovels_2012,Winter wheat,1646.452358,131.2,673.5930286,7.504
+1_back.of.hovels,1_back.of.hovels_2013,Other,2038.815009,192.7,825.0920312,11.256
+1_back.of.hovels,1_back.of.hovels_2014,Winter wheat,2120.170039,513.32,710.0317968,18.76
+1_barn.ground,1_barn.ground_2004,Winter wheat,1991.946721,0,982.179743,0
+1_barn.ground,1_barn.ground_2005,Other,1809.338486,0,887.3773319,0
+1_barn.ground,1_barn.ground_2006,Winter wheat,2304.857604,164,1057.732258,7.504
+1_barn.ground,1_barn.ground_2007,Other,1099.733391,41,528.1464458,3.752
+1_barn.ground,1_barn.ground_2008,Winter wheat,2344.375995,110.7,1110.399737,3.752
+1_barn.ground,1_barn.ground_2009,Other,1867.629495,143.5,842.3192536,3.752
+1_barn.ground,1_barn.ground_2010,Winter wheat,2214.657604,73.8,1057.732258,7.504
+1_barn.ground,1_barn.ground_2011,Other,1099.733391,41,528.1464458,3.752
+1_barn.ground,1_barn.ground_2012,Winter wheat,2422.747995,185.32,1110.399737,7.504
+1_barn.ground,1_barn.ground_2013,Other,2013.294486,192.7,887.3773319,11.256
+1_barn.ground,1_barn.ground_2014,Winter wheat,2374.224454,185.32,1083.827652,7.504
+1_bridge_leggott,1_bridge_leggott_2004,Other root crops,857.9475698,282.9,392.5702126,11.256
+1_bridge_leggott,1_bridge_leggott_2005,Winter wheat,1854.439624,100.04,982.9849533,7.504
+1_bridge_leggott,1_bridge_leggott_2006,Winter wheat,1924.968725,180.4,977.5443454,7.504
+1_bridge_leggott,1_bridge_leggott_2007,Grass-clover mix,327.1931313,246,77.44113125,3.752
+1_bridge_leggott,1_bridge_leggott_2008,Winter wheat,1609.140462,196.8,798.9762754,7.504
+1_bridge_leggott,1_bridge_leggott_2009,Other legume,341.5954773,82,255.8434773,3.752
+1_bridge_leggott,1_bridge_leggott_2010,Winter wheat,1279.738402,65.6,697.3606217,7.504
+1_bridge_leggott,1_bridge_leggott_2011,Winter wheat,1842.968725,98.4,977.5443454,7.504
+1_bridge_leggott,1_bridge_leggott_2012,Other root crops,745.5455698,174.25,392.5702126,7.504
+1_bridge_leggott,1_bridge_leggott_2013,Winter wheat,1810.673352,20.5,1004.949517,3.752
+1_bridge_leggott,1_bridge_leggott_2014,Winter wheat,2196.395949,73.8,1193.130796,7.504
+1_capps,1_capps_2010,Winter wheat,1694.016978,31.365,825.3829391,7.504
+1_capps,1_capps_2011,Winter wheat,1282.511449,16.4,634.5478065,3.752
+1_capps,1_capps_2012,Barley,1409.89106,173.02,619.1165822,7.504
+1_capps,1_capps_2013,Other,1017.111683,164,446.0911831,7.504
+1_capps,1_capps_2014,Winter wheat,1559.389202,168.92,689.9374824,11.256
+1_chivers.top.left,1_chivers.top.left_2005,Other root crops,1173.618535,143.5,522.7596284,11.256
+1_chivers.top.left,1_chivers.top.left_2006,Winter wheat,1181.488665,118.9,540.7823026,3.752
+1_chivers.top.left,1_chivers.top.left_2007,Other,1926.66188,233.7,838.7699675,11.256
+1_chivers.top.left,1_chivers.top.left_2008,Winter wheat,1898.729233,123.82,884.3184084,3.752
+1_chivers.top.left,1_chivers.top.left_2009,Winter wheat,1893.809233,118.9,884.3184084,3.752
+1_chivers.top.left,1_chivers.top.left_2010,Other,1902.186332,82,907.6440519,3.752
+1_chivers.top.left,1_chivers.top.left_2011,Winter wheat,1804.758836,307.5,743.4053308,7.504
+1_chivers.top.left,1_chivers.top.left_2012,Winter wheat,1699.899978,41,825.3829391,3.752
+1_chivers.top.left,1_chivers.top.left_2013,Other,2036.613233,254.2,884.3184084,11.256
+1_corner13acre,1_corner13acre_2006,Winter wheat,1868.043271,41,1160.995589,7.504
+1_corner13acre,1_corner13acre_2007,Other,2021.202069,86.1,1228.903475,3.752
+1_corner13acre,1_corner13acre_2008,Winter wheat,2037.254069,98.4,1228.903475,7.504
+1_corner13acre,1_corner13acre_2009,Other,1950.603879,71.75,1194.606741,3.752
+1_corner13acre,1_corner13acre_2010,Winter wheat,1959.702069,24.6,1228.903475,3.752
+1_corner13acre,1_corner13acre_2011,Dry Bean,390.1864387,0,386.4344387,3.752
+1_corner13acre,1_corner13acre_2012,Winter wheat,2070.231563,20.5,1299.630058,3.752
+1_corner13acre,1_corner13acre_2013,Other,2476.191824,301.35,1373.333406,11.256
+1_corner13acre,1_corner13acre_2014,Winter wheat,2414.839783,123,1450.180454,7.504
+1_eds,1_eds_2010,Winter wheat,2387.354972,119.925,1434.551225,7.504
+1_eds,1_eds_2011,Winter wheat,2403.959972,136.53,1434.551225,7.504
+1_eds,1_eds_2012,Other,2544.711737,125.05,1530.347496,11.256
+1_eds,1_eds_2013,Barley,1540.971295,0,996.575185,0
+1_eds,1_eds_2014,Winter wheat,2467.038363,117.342,1489.837577,3.752
+1_fence.field,1_fence.field_2004,Grass-clover mix,32.0414382,0,32.0414382,0
+1_fence.field,1_fence.field_2005,Grass-clover mix,32.0414382,0,32.0414382,0
+1_fence.field,1_fence.field_2006,Grass-clover mix,32.0414382,0,32.0414382,0
+1_fence.field,1_fence.field_2007,Grass-clover mix,32.0414382,0,32.0414382,0
+1_fence.field,1_fence.field_2008,Grass-clover mix,32.0414382,0,32.0414382,0
+1_fence.field,1_fence.field_2009,Winter wheat,1776.342039,184.5,710.0317968,3.752
+1_fence.field,1_fence.field_2010,Winter wheat,1614.000358,102.5,673.5930286,3.752
+1_fence.field,1_fence.field_2011,Winter wheat,1527.900358,16.4,673.5930286,3.752
+1_fence.field,1_fence.field_2012,Winter wheat,1816.258122,139.4,747.3929681,7.504
+1_fence.field,1_fence.field_2013,Winter wheat,1572.059018,20.5,691.7002319,3.752
+1_fence.field,1_fence.field_2014,Winter wheat,1689.506122,16.4,747.3929681,3.752
+1_field3,1_field3_2010,Dry Bean,2140.433043,340.3,871.3061804,11.256
+1_field3,1_field3_2011,Winter wheat,2048.184557,164.41,919.8253644,11.256
+1_field3,1_field3_2012,Winter wheat,2312.54092,397.7,933.9688543,15.008
+1_field3,1_field3_2013,Other,1919.88028,120.95,878.2457084,7.504
+1_field3,1_field3_2014,Winter wheat,2164.437015,318.365,896.5702786,18.76
+1_front.field,1_front.field_2004,Other,2139.021976,184.5,1077.740316,7.504
+1_front.field,1_front.field_2005,Winter wheat,1708.081737,123.82,874.3111439,7.504
+1_front.field,1_front.field_2006,Dry Bean,327.1719328,82,241.4199328,3.752
+1_front.field,1_front.field_2007,Winter wheat,1874.01221,98.4,977.8557925,7.504
+1_front.field,1_front.field_2008,Winter wheat,2114.221609,139.4,1089.259367,7.504
+1_front.field,1_front.field_2009,Winter wheat,2017.680231,143.5,1032.520901,7.504
+1_front.field,1_front.field_2010,Winter wheat,1822.50746,143.5,925.1539541,7.504
+1_front.field,1_front.field_2011,Winter wheat,1816.61221,41,977.8557925,7.504
+1_front.field,1_front.field_2012,Winter wheat,2241.652604,164,1148.18745,7.504
+1_front.field,1_front.field_2013,Other,1980.780231,106.6,1032.520901,7.504
+1_front.field,1_front.field_2014,Winter wheat,2155.221609,180.4,1089.259367,7.504
+1_garden,1_garden_2004,Winter wheat,2433.325609,451,1089.259367,15.008
+1_garden,1_garden_2005,Dry Bean,371.9239328,123,241.4199328,7.504
+1_garden,1_garden_2006,Winter wheat,1956.01221,180.4,977.8557925,7.504
+1_glebe.30,1_glebe.30_2004,Winter wheat,1874.222139,32.8,871.8060735,3.752
+1_glebe.30,1_glebe.30_2005,Other root crops,1207.026642,174.25,490.9336968,15.008
+1_glebe.30,1_glebe.30_2006,Winter wheat,2136.274139,291.1,871.8060735,7.504
+1_glebe.30,1_glebe.30_2007,Winter wheat,1894.374139,49.2,871.8060735,7.504
+1_glebe.30,1_glebe.30_2008,Other root crops,1139.724642,110.7,490.9336968,11.256
+1_glebe.30,1_glebe.30_2009,Barley,1599.770161,95.12,706.893743,7.504
+1_glebe.30,1_glebe.30_2010,Winter wheat,1911.451139,62.525,871.8060735,11.256
+1_glebe.30,1_glebe.30_2011,Other root crops,1442.776642,410,490.9336968,15.008
+1_glebe.30,1_glebe.30_2012,Barley,1600.385161,95.735,706.893743,7.504
+1_glebe.30,1_glebe.30_2013,Other,1766.008745,174.25,746.3474151,11.256
+1_glebe.30,1_glebe.30_2014,Winter wheat,2009.851139,160.925,871.8060735,11.256
+1_gym,1_gym_2006,Barley,1466.137232,225.5,552.6380951,7.504
+1_gym,1_gym_2007,Other,1576.107049,164,627.5215047,7.504
+1_gym,1_gym_2008,Winter wheat,1699.198433,172.2,677.1968122,11.256
+1_gym,1_gym_2009,Grass-clover mix,158.4454382,118.9,32.0414382,7.504
+1_gym,1_gym_2010,Winter wheat,1858.048959,282.9,699.0055913,11.256
+1_gym,1_gym_2011,Other,1642.015056,241.9,620.5580943,11.256
+1_gym,1_gym_2012,Winter wheat,2402.565797,229.6,985.1117531,11.256
+1_gym,1_gym_2013,Dry Bean,605.4758943,492,102.2198943,11.256
+1_gym,1_gym_2014,Winter wheat,2351.158834,222.22,963.0362463,11.256
+1_hermitage,1_hermitage_2004,Winter wheat,11566.44518,231.65,8579.607174,11.256
+1_hermitage,1_hermitage_2005,Other,7060.864971,194.75,4663.465367,7.504
+1_hermitage,1_hermitage_2006,Winter wheat,10404.5057,180.4,7582.426976,7.504
+1_hermitage,1_hermitage_2007,Dry Bean,371.9239328,123,241.4199328,7.504
+1_hermitage,1_hermitage_2008,Winter wheat,11454.04318,123,8579.607174,7.504
+1_hermitage,1_hermitage_2009,Other,471.8174347,217.3,247.0134347,7.504
+1_hermitage,1_hermitage_2010,Winter wheat,10555.5097,323.9,7582.426976,15.008
+1_hermitage,1_hermitage_2011,Dry Bean,429.6719328,184.5,241.4199328,3.752
+1_hermitage,1_hermitage_2012,Winter wheat,10490.2577,262.4,7582.426976,11.256
+1_hermitage,1_hermitage_2013,Grass-clover mix,333.0654358,246,72.05743579,15.008
+1_hermitage,1_hermitage_2014,Winter wheat,10576.0097,344.4,7582.426976,15.008
+1_jollies,1_jollies_2004,Other,1672.760192,102.5,667.1367856,7.504
+1_jollies,1_jollies_2005,Winter wheat,1602.67726,98.4,640.0281832,3.752
+1_jollies,1_jollies_2006,Dry Bean,174.9576008,82,89.20560075,3.752
+1_jollies,1_jollies_2007,Winter wheat,1634.78126,123,640.0281832,11.256
+1_jollies,1_jollies_2008,Barley,1282.998873,307.5,419.2084714,7.504
+1_jollies,1_jollies_2009,Other,1592.392035,123,623.3424145,7.504
+1_jollies,1_jollies_2010,Winter wheat,1630.071251,133.537,636.6754653,3.752
+1_jollies,1_jollies_2011,Oats,1023.37792,0.5125,439.5949808,3.752
+1_jollies,1_jollies_2012,Winter wheat,1946.297175,333.125,684.3453123,11.256
+1_jollies,1_jollies_2013,Other,1927.812083,143.5,762.6508137,7.504
+1_jollies,1_jollies_2014,Winter wheat,1473.299568,50.02,603.571694,7.504
+1_long7acre,1_long7acre_2011,Other,2262.152604,184.5,1148.18745,7.504
+1_long7acre,1_long7acre_2012,Winter wheat,2119.702906,151.29,1083.488956,11.256
+1_long7acre,1_long7acre_2013,Other,2230.999744,194.75,1124.345755,7.504
+1_long7acre,1_long7acre_2014,Winter wheat,2205.019312,71.34,1178.510702,11.256
+1_long7acre,1_long7acre_2015,Barley,2034.254368,172.446,1021.42562,15.008
+1_mawland.smiths,1_mawland.smiths_2008,Winter wheat,2821.134795,146.37,1701.396729,7.504
+1_mawland.smiths,1_mawland.smiths_2009,Other,3285.771421,134.07,2029.063454,7.504
+1_mawland.smiths,1_mawland.smiths_2010,Winter wheat,2301.460557,142.27,1365.824431,7.504
+1_mawland.smiths,1_mawland.smiths_2011,Dry Bean,520.6284387,126.69,386.4344387,7.504
+1_mawland.smiths,1_mawland.smiths_2012,Winter wheat,3447.248944,217.3,2081.607521,11.256
+1_mawland.smiths,1_mawland.smiths_2013,Other,2981.183447,312.215,1692.486672,15.008
+1_mawland.smiths,1_mawland.smiths_2014,Winter wheat,2933.985957,392.165,1605.490094,18.76
+1_newton.grange.23,1_newton.grange.23_2004,Barley,2458.13776,30.75,1378.746453,3.752
+1_newton.grange.23,1_newton.grange.23_2005,Other,2585.704409,0,1479.351025,0
+1_newton.grange.23,1_newton.grange.23_2006,Winter wheat,2962.771984,30.75,1698.988445,3.752
+1_newton.grange.23,1_newton.grange.23_2007,Winter wheat,2596.697975,30.75,1464.623173,3.752
+1_newton.grange.23,1_newton.grange.23_2008,Barley,2312.618945,30.75,1290.301423,3.752
+1_newton.grange.23,1_newton.grange.23_2009,Other,2692.699975,123,1464.623173,7.504
+1_newton.grange.23,1_newton.grange.23_2010,Winter wheat,3363.009043,161.95,1872.71568,11.256
+1_newton.grange.23,1_newton.grange.23_2011,Winter wheat,2735.401975,161.95,1464.623173,11.256
+1_newton.grange.23,1_newton.grange.23_2012,Barley,2440.190945,154.57,1290.301423,7.504
+1_newton.grange.23,1_newton.grange.23_2013,Other,2774.699975,205,1464.623173,7.504
+1_newton.grange.23,1_newton.grange.23_2014,Winter wheat,3445.829043,244.77,1872.71568,11.256
+1_opposite.cottage,1_opposite.cottage_2004,Winter wheat,2862.02492,0.8528,2075.948285,3.752
+1_opposite.cottage,1_opposite.cottage_2005,Other legume,682.0150639,19.475,655.0360639,7.504
+1_opposite.cottage,1_opposite.cottage_2006,Winter wheat,2556.600974,180.4,1728.352748,11.256
+1_opposite.cottage,1_opposite.cottage_2007,Other root crops,1308.105096,161.13,934.4039921,15.008
+1_opposite.cottage,1_opposite.cottage_2008,Winter wheat,2829.258088,164.574,1932.782039,7.504
+1_opposite.cottage,1_opposite.cottage_2009,Other root crops,1375.984451,0,1081.83494,0
+1_opposite.cottage,1_opposite.cottage_2010,Winter wheat,3560.206938,53.3,2547.348037,11.256
+1_opposite.cottage,1_opposite.cottage_2011,Other root crops,1454.633318,336.2,915.2810873,18.76
+1_opposite.cottage,1_opposite.cottage_2012,Winter wheat,3147.955413,41,2252.12521,7.504
+1_opposite.cottage,1_opposite.cottage_2013,Other,2550.867284,213.2,1699.237932,15.008
+1_opposite.cottage,1_opposite.cottage_2014,Winter wheat,3332.941233,271.625,2215.904903,11.256
+1_shooters.bank,1_shooters.bank_2004,Grass-clover mix,319.2169267,196.8,114.9129267,7.504
+1_shooters.bank,1_shooters.bank_2005,Other,2742.511167,397.7,1481.838672,11.256
+1_shooters.bank,1_shooters.bank_2006,Winter wheat,2554.777972,291.1,1434.551225,3.752
+1_shooters.bank,1_shooters.bank_2007,Dry Bean,672.7384387,278.8,386.4344387,7.504
+1_shooters.bank,1_shooters.bank_2008,Winter wheat,2891.064447,229.6,1692.486672,7.504
+1_shooters.bank,1_shooters.bank_2009,Grass-clover mix,200.6649267,82,114.9129267,3.752
+1_shooters.bank,1_shooters.bank_2010,Other,2240.189514,221.4,1278.106882,7.504
+1_shooters.bank,1_shooters.bank_2011,Winter wheat,2865.154982,213.2,1683.615498,11.256
+1_shooters.bank,1_shooters.bank_2012,Winter wheat,3785.353677,479.7,2135.360798,11.256
+1_shooters.bank,1_shooters.bank_2013,Grass-clover mix,286.0689267,159.9,114.9129267,11.256
+1_shooters.bank,1_shooters.bank_2014,Winter wheat,3640.232844,402.7799,2081.607521,18.76
+1_stokewell.ground,1_stokewell.ground_2004,Winter wheat,2564.813451,337.84,1205.950473,11.256
+1_stokewell.ground,1_stokewell.ground_2005,Winter wheat,3103.187233,553.5,1393.84181,18.76
+1_stokewell.ground,1_stokewell.ground_2006,Winter wheat,2216.602965,291.1,1032.436723,15.008
+1_stokewell.ground,1_stokewell.ground_2007,Winter wheat,2468.636668,303.4,1163.689728,22.512
+1_stokewell.ground,1_stokewell.ground_2008,Winter wheat,2552.392429,106.6,1333.211627,15.008
+1_stokewell.ground,1_stokewell.ground_2009,Winter wheat,2937.888323,188.6,1521.921658,11.256
+1_stokewell.ground,1_stokewell.ground_2010,Winter wheat,3318.526273,385.4,1636.15324,15.008
+1_stokewell.ground,1_stokewell.ground_2011,Winter wheat,2868.999296,197.62,1470.992669,15.008
+1_stokewell.ground,1_stokewell.ground_2012,Winter wheat,2851.570555,78.679,1536.744308,11.256
+1_stokewell.ground,1_stokewell.ground_2013,Spring wheat,1959.702759,336.2,867.1738358,18.76
+1_stokewell.ground,1_stokewell.ground_2014,Winter wheat,2371.172493,192.7,1175.648971,15.008
+1_threadgold,1_threadgold_2004,Barley,921.9683592,51.25,397.8434911,7.504
+1_threadgold,1_threadgold_2005,Other,1576.508972,41,684.4307686,3.752
+1_threadgold,1_threadgold_2006,Winter wheat,1188.536898,17.015,523.0353814,7.504
+1_threadgold,1_threadgold_2007,Barley,1076.624218,194.75,400.8570583,11.256
+1_threadgold,1_threadgold_2008,Dry Bean,154.8238943,45.1,102.2198943,7.504
+1_threadgold,1_threadgold_2009,Winter wheat,1050.873457,139.4,416.0088413,3.752
+1_threadgold,1_threadgold_2010,Winter wheat,1971.879085,217.3,781.8493105,11.256
+1_threadgold,1_threadgold_2011,Barley,908.0339129,96.35,373.9313744,7.504
+1_threadgold,1_threadgold_2012,Barley,881.1260828,87.74,365.052418,11.256
+1_threadgold,1_threadgold_2013,Barley,717.3205087,41,321.345212,3.752
+1_threadgold,1_threadgold_2014,Winter wheat,1713.893018,388.27,586.2169687,15.008
+1_wells.rd,1_wells.rd_2005,Winter wheat,2382.588824,207.747,1373.333406,11.256
+1_wells.rd,1_wells.rd_2006,Winter wheat,2633.720782,362.53881,1434.551225,11.256
+1_wells.rd,1_wells.rd_2007,Other,2126.681514,104.14,1278.106882,11.256
+1_wells.rd,1_wells.rd_2008,Winter wheat,2839.723783,540.38,1450.180454,15.008
+1_wells.rd,1_wells.rd_2009,Dry Bean,994.1804387,585.234,386.4344387,22.512
+1_wells.rd,1_wells.rd_2010,Winter wheat,2188.166711,84.255,1328.745041,11.256
+1_wells.rd,1_wells.rd_2011,Dry Bean,823.5384387,414.592,386.4344387,22.512
+1_wells.rd,1_wells.rd_2012,Winter wheat,2409.079629,266.09,1350.900085,15.008
+1_wells.rd,1_wells.rd_2013,Other,2482.382519,295.61,1380.873811,11.256
+1_wells.rd,1_wells.rd_2014,Winter wheat,2589.117363,228.165,1489.837577,15.008
+2_#2,2_#2_2004,Winter wheat,1704.162335,180.4,857.714654,7.504
+2_#2,2_#2_2005,Winter wheat,1368.869966,123,715.2830205,3.752
+2_#2,2_#2_2006,Grass-clover mix,204.1931313,123,77.44113125,3.752
+2_#2,2_#2_2007,Other,1618.410335,98.4,857.714654,3.752
+2_#2,2_#2_2008,Winter wheat,1385.269966,139.4,715.2830205,3.752
+2_#2,2_#2_2009,Winter wheat,1826.459049,16.4,1016.054632,3.752
+2_#2,2_#2_2010,Other,1809.495555,94.3,961.342049,7.504
+2_#2,2_#2_2011,Winter wheat,1964.392626,196.39,988.4456642,11.256
+2_#2,2_#2_2012,Barley,2057.280555,330.829,961.342049,18.76
+2_#2,2_#2_2013,Other,2144.094725,388.27,977.5443454,18.76
+2_#2,2_#2_2014,Winter wheat,1772.489335,244.975,857.714654,11.256
+2_2x11,2_2x11_2006,Other root crops,853.4995698,274.7,392.5702126,15.008
+2_2x11,2_2x11_2007,Winter wheat,1839.216725,98.4,977.5443454,3.752
+2_2x11,2_2x11_2008,Winter wheat,1839.216725,98.4,977.5443454,3.752
+2_2x11,2_2x11_2009,Other root crops,759.5475698,184.5,392.5702126,11.256
+2_2x11,2_2x11_2010,Winter wheat,1839.373352,49.2,1004.949517,3.752
+2_2x11,2_2x11_2011,Winter wheat,1892.325352,98.4,1004.949517,7.504
+2_2x11,2_2x11_2012,Other legume,341.5954773,82,255.8434773,3.752
+2_2x11,2_2x11_2013,Winter wheat,1366.413191,45.1,751.8519167,7.504
+2_45acre.nr.duffields,2_45acre.nr.duffields_2011,Winter wheat,2169.73692,262.4,933.9688543,7.504
+2_45acre.nr.duffields,2_45acre.nr.duffields_2012,Winter wheat,2087.73692,180.4,933.9688543,7.504
+2_45acre.nr.duffields,2_45acre.nr.duffields_2013,Barley,1257.134966,276.75,493.7009332,3.752
+2_45acre.nr.duffields,2_45acre.nr.duffields_2014,Winter wheat,2335.302721,332.1,982.179743,11.256
+2_banbury.road,2_banbury.road_2010,Winter wheat,1993.737486,173.143,887.3773319,11.256
+2_banbury.road,2_banbury.road_2011,Winter wheat,2174.752486,354.158,887.3773319,11.256
+2_banbury.road,2_banbury.road_2012,Barley,1760.178917,290.772,715.5534115,7.504
+2_begbrokeA44,2_begbrokeA44_2006,Barley,1351.255944,225.5,503.6111751,7.504
+2_begbrokeA44,2_begbrokeA44_2007,Other,1248.33179,61.5,529.5646906,7.504
+2_begbrokeA44,2_begbrokeA44_2008,Winter wheat,2314.605389,260.35,924.1134218,15.008
+2_begbrokeA44,2_begbrokeA44_2009,Grass-clover mix,158.4454382,118.9,32.0414382,7.504
+2_begbrokeA44,2_begbrokeA44_2010,Winter wheat,1817.533532,266.5,688.0610377,11.256
+2_begbrokeA44,2_begbrokeA44_2011,Other,1298.686554,278.8,459.2058616,7.504
+2_begbrokeA44,2_begbrokeA44_2012,Winter wheat,2817.502297,410,1105.500681,11.256
+2_begbrokeA44,2_begbrokeA44_2013,Dry Bean,379.9758943,266.5,102.2198943,11.256
+2_begbrokeA44,2_begbrokeA44_2014,Winter wheat,2616.233667,345.22,1034.86642,11.256
+2_bridge.ground,2_bridge.ground_2004,Dry Bean,699.7880639,41,655.0360639,3.752
+2_bridge.ground,2_bridge.ground_2005,Winter wheat,3369.605809,389.5,2156.645935,11.256
+2_bridge.ground,2_bridge.ground_2006,Barley,2238.502926,207.05,1497.113981,7.504
+2_bridge.ground,2_bridge.ground_2007,Other,2388.287368,86.1,1680.042599,7.504
+2_bridge.ground,2_bridge.ground_2008,Winter wheat,2409.212523,47.15,1718.604589,11.256
+2_bridge.ground,2_bridge.ground_2009,Dry Bean,908.5400639,246,655.0360639,7.504
+2_bridge.ground,2_bridge.ground_2010,Winter wheat,2751.993535,53.3,1954.258903,11.256
+2_bridge.ground,2_bridge.ground_2011,Potato,1752.488451,369,1081.83494,7.504
+2_bridge.ground,2_bridge.ground_2012,Winter wheat,3847.240723,176.3,2671.869201,11.256
+2_bridge.ground,2_bridge.ground_2013,Other root crops,1403.225096,256.25,934.4039921,15.008
+2_bridge.ground,2_bridge.ground_2014,Winter wheat,3066.160131,28.7,2203.943092,3.752
+2_buckleys,2_buckleys_2004,Winter wheat,2509.057629,369.82,1350.900085,11.256
+2_buckleys,2_buckleys_2005,Dry Bean,472.1864387,82,386.4344387,3.752
+2_buckleys,2_buckleys_2006,Winter wheat,2662.385867,118.9,1614.020713,7.504
+2_buckleys,2_buckleys_2007,Winter wheat,2269.489824,98.4,1373.333406,7.504
+2_buckleys,2_buckleys_2008,Winter wheat,2723.885867,180.4,1614.020713,7.504
+2_buckleys,2_buckleys_2009,Winter wheat,2432.657737,20.5,1530.347496,3.752
+2_buckleys,2_buckleys_2010,Other,2310.837824,143.5,1373.333406,3.752
+2_buckleys,2_buckleys_2011,Winter wheat,2749.838946,180.4,1631.19321,7.504
+2_buckleys,2_buckleys_2012,Winter wheat,2395.061048,164,1411.353175,7.504
+2_buckleys,2_buckleys_2013,Other,2361.874404,106.6,1426.785948,7.504
+2_buckleys,2_buckleys_2014,Winter wheat,2597.129737,181.22,1530.347496,7.504
+2_bushmeadow,2_bushmeadow_2004,Winter wheat,1783.164161,271.01,706.893743,15.008
+2_bushmeadow,2_bushmeadow_2005,Winter wheat,2004.203047,246,828.7378933,7.504
+2_bushmeadow,2_bushmeadow_2006,Winter wheat,1769.160943,492.8405,598.3784703,15.008
+2_bushmeadow,2_bushmeadow_2007,Grass-clover mix,293.4667895,246,39.96278955,7.504
+2_bushmeadow,2_bushmeadow_2008,Winter wheat,1920.988745,329.23,746.3474151,11.256
+2_bushmeadow,2_bushmeadow_2009,Winter wheat,1393.046443,124.23,598.3784703,7.504
+2_bushmeadow,2_bushmeadow_2010,Other,1839.100232,260.35,738.3674848,15.008
+2_bushmeadow,2_bushmeadow_2011,Winter wheat,1523.229734,262.4,594.7820529,7.504
+2_bushmeadow,2_bushmeadow_2012,Winter wheat,2111.326139,262.4,871.8060735,11.256
+2_bushmeadow,2_bushmeadow_2013,Dry Bean,253.071997,112.75,132.817997,7.504
+2_bushmeadow,2_bushmeadow_2014,Winter wheat,1769.03313,155.8,758.4029272,7.504
+2_chapmans,2_chapmans_2004,Winter wheat,1798.152358,282.9,673.5930286,7.504
+2_chapmans,2_chapmans_2005,Other,1789.608122,112.75,747.3929681,7.504
+2_chapmans,2_chapmans_2006,Winter wheat,1634.152358,118.9,673.5930286,7.504
+2_chapmans,2_chapmans_2007,Other,1783.458122,106.6,747.3929681,7.504
+2_chapmans,2_chapmans_2008,Winter wheat,1556.252358,41,673.5930286,7.504
+2_chapmans,2_chapmans_2009,Millet,1217.37178,205,456.0813791,7.504
+2_chapmans,2_chapmans_2010,Winter wheat,1695.652358,180.4,673.5930286,7.504
+2_chapmans,2_chapmans_2011,Other,1783.458122,106.6,747.3929681,7.504
+2_chapmans,2_chapmans_2012,Winter wheat,1689.154358,170.15,673.5930286,11.256
+2_chapmans,2_chapmans_2013,Other,1931.333009,88.97,825.0920312,7.504
+2_chapmans,2_chapmans_2014,Winter wheat,1821.914039,226.32,710.0317968,7.504
+2_chivers.bottom.right,2_chivers.bottom.right_2005,Other,2224.099866,55.35,1384.164322,7.504
+2_chivers.bottom.right,2_chivers.bottom.right_2006,Winter wheat,2435.511127,58.22,1518.070633,7.504
+2_chivers.bottom.right,2_chivers.bottom.right_2007,Other root crops,1848.338105,379.25,954.2251988,18.76
+2_chivers.bottom.right,2_chivers.bottom.right_2008,Winter wheat,2593.926275,118.9,1584.435451,3.752
+2_chivers.bottom.right,2_chivers.bottom.right_2009,Other legume,435.3793441,41,390.6273441,3.752
+2_chivers.bottom.right,2_chivers.bottom.right_2010,Winter wheat,2645.21103,75.768,1644.368167,7.504
+2_chivers.bottom.right,2_chivers.bottom.right_2011,Other root crops,1710.0156,123,1026.973198,11.256
+2_chivers.bottom.right,2_chivers.bottom.right_2012,Winter wheat,2376.570519,49.2,1485.711189,7.504
+2_chivers.bottom.right,2_chivers.bottom.right_2013,Other,2642.430275,159.9,1584.435451,11.256
+2_clattercote.meadow,2_clattercote.meadow_2009,Winter wheat,1919.98492,16.4,933.9688543,3.752
+2_clattercote.meadow,2_clattercote.meadow_2010,Other,1932.881495,205,842.3192536,7.504
+2_clattercote.meadow,2_clattercote.meadow_2011,Winter wheat,2034.78492,131.2,933.9688543,3.752
+2_clattercote.meadow,2_clattercote.meadow_2012,Other,1814.622586,174.25,798.7132565,7.504
+2_clattercote.meadow,2_clattercote.meadow_2013,Winter wheat,2142.950721,143.5,982.179743,7.504
+2_clattercote.meadow,2_clattercote.meadow_2014,Winter wheat,2138.866625,45.592,1032.100735,7.504
+2_court,2_court_2004,Other,7222.466971,352.6,4663.465367,11.256
+2_court,2_court_2005,Winter wheat,10572.2577,344.4,7582.426976,11.256
+2_court,2_court_2006,Winter wheat,8539.65644,180.4,5937.092275,7.504
+2_court,2_court_2007,Dry Bean,662.6759328,410,241.4199328,11.256
+2_court,2_court_2008,Winter wheat,7132.266971,262.4,4663.465367,11.256
+2_court,2_court_2009,Other,5721.88286,69.7,3672.799816,3.752
+2_court,2_court_2010,Winter wheat,7197.518971,323.9,4663.465367,15.008
+2_court,2_court_2011,Grass-clover mix,329.3134358,246,72.05743579,11.256
+2_court,2_court_2012,Winter wheat,7255.185971,377.815,4663.465367,18.76
+2_court,2_court_2013,Other,504.2694347,246,247.0134347,11.256
+2_court,2_court_2014,Winter wheat,7112.114971,246,4663.465367,7.504
+2_cow.rd,2_cow.rd_2005,Winter wheat,2382.588824,207.747,1373.333406,11.256
+2_cow.rd,2_cow.rd_2006,Winter wheat,2583.191972,312.01,1434.551225,11.256
+2_cow.rd,2_cow.rd_2007,Other,1368.440569,63.14,858.7674481,7.504
+2_cow.rd,2_cow.rd_2008,Winter wheat,2839.723783,540.38,1450.180454,15.008
+2_cow.rd,2_cow.rd_2009,Dry Bean,879.5844387,478.142,386.4344387,15.008
+2_cow.rd,2_cow.rd_2010,Winter wheat,2188.166711,84.255,1328.745041,11.256
+2_cow.rd,2_cow.rd_2011,Dry Bean,737.7864387,332.592,386.4344387,18.76
+2_cow.rd,2_cow.rd_2012,Winter wheat,2265.107629,125.87,1350.900085,11.256
+2_cow.rd,2_cow.rd_2013,Other,2314.630519,131.61,1380.873811,7.504
+2_cow.rd,2_cow.rd_2014,Winter wheat,2618.781363,254.077,1489.837577,18.76
+2_field5,2_field5_2010,Dry Bean,2140.433043,340.3,871.3061804,11.256
+2_field5,2_field5_2011,Winter wheat,2048.184557,164.41,919.8253644,11.256
+2_field5,2_field5_2012,Winter wheat,2312.54092,397.7,933.9688543,15.008
+2_field5,2_field5_2013,Other,1919.88028,120.95,878.2457084,7.504
+2_field5,2_field5_2014,Winter wheat,2164.437015,318.365,896.5702786,18.76
+2_fifty.acre,2_fifty.acre_2008,Winter wheat,2821.134795,146.37,1701.396729,7.504
+2_fifty.acre,2_fifty.acre_2009,Other,3285.771421,134.07,2029.063454,7.504
+2_fifty.acre,2_fifty.acre_2010,Winter wheat,2922.403106,139.81,1774.10271,7.504
+2_fifty.acre,2_fifty.acre_2011,Dry Bean,520.6284387,126.69,386.4344387,7.504
+2_fifty.acre,2_fifty.acre_2012,Winter wheat,3462.292097,217.3,2092.260383,11.256
+2_fifty.acre,2_fifty.acre_2013,Other,3125.30617,311.6,1792.683192,11.256
+2_fifty.acre,2_fifty.acre_2014,Winter wheat,2810.370957,268.55,1605.490094,18.76
+2_front.field,2_front.field_2004,Barley,877.6602017,51.25,379.8770808,7.504
+2_front.field,2_front.field_2005,Grass-clover mix,35.7934382,0,32.0414382,3.752
+2_front.field,2_front.field_2006,Other,1062.014173,87.125,440.5502281,7.504
+2_front.field,2_front.field_2007,Winter wheat,1032.346632,139.4,406.9008906,7.504
+2_front.field,2_front.field_2008,Barley,1014.786083,221.4,365.052418,11.256
+2_front.field,2_front.field_2009,Other,1012.283632,123,403.8761814,11.256
+2_front.field,2_front.field_2010,Winter wheat,1304.408501,155.8,513.2928586,7.504
+2_front.field,2_front.field_2011,Dry Bean,441.4758943,328,102.2198943,11.256
+2_front.field,2_front.field_2012,Winter wheat,1743.278581,479.7,559.2948615,15.008
+2_front.field,2_front.field_2013,Barley,717.3205087,41,321.345212,3.752
+2_front.field,2_front.field_2014,Winter wheat,1829.918166,386.63,638.0277488,15.008
+2_horsewoods.top,2_horsewoods.top_2004,Oats,999.5600563,0.82,512.0560234,3.752
+2_horsewoods.top,2_horsewoods.top_2005,Winter wheat,1217.348104,98.4,566.4097029,3.752
+2_horsewoods.top,2_horsewoods.top_2006,Barley,1090.032981,123,497.9101131,3.752
+2_horsewoods.top,2_horsewoods.top_2007,Grass-clover mix,49.79939665,0,49.79939665,0
+2_horsewoods.top,2_horsewoods.top_2008,Winter wheat,1259.04366,180.4,548.0567148,3.752
+2_horsewoods.top,2_horsewoods.top_2009,Winter wheat,1332.323902,16.4,658.0185123,3.752
+2_horsewoods.top,2_horsewoods.top_2010,Oats,1066.859444,0,544.4147903,0
+2_horsewoods.top,2_horsewoods.top_2011,Grass-clover mix,602.9273043,0,234.1428428,0
+2_horsewoods.top,2_horsewoods.top_2012,Winter wheat,1810.650649,41,879.6981157,7.504
+2_horsewoods.top,2_horsewoods.top_2013,Spring wheat,1455.779353,114.8,669.9030888,3.752
+2_horsewoods.top,2_horsewoods.top_2014,Winter wheat,344.193266,98.4,194.386354,7.504
+2_mushroom.field,2_mushroom.field_2004,Grass-clover mix,319.2169267,196.8,114.9129267,7.504
+2_mushroom.field,2_mushroom.field_2005,Other,2742.511167,397.7,1481.838672,11.256
+2_mushroom.field,2_mushroom.field_2006,Winter wheat,2554.777972,291.1,1434.551225,3.752
+2_mushroom.field,2_mushroom.field_2007,Dry Bean,672.7384387,278.8,386.4344387,7.504
+2_mushroom.field,2_mushroom.field_2008,Winter wheat,2891.064447,229.6,1692.486672,7.504
+2_mushroom.field,2_mushroom.field_2009,Winter wheat,2871.821944,106.6,1764.87384,3.752
+2_mushroom.field,2_mushroom.field_2010,Other,2286.835563,229.6,1299.630058,11.256
+2_mushroom.field,2_mushroom.field_2011,Winter wheat,2865.154982,213.2,1683.615498,11.256
+2_mushroom.field,2_mushroom.field_2012,Winter wheat,3785.353677,479.7,2135.360798,11.256
+2_mushroom.field,2_mushroom.field_2013,Grass-clover mix,286.0689267,159.9,114.9129267,11.256
+2_mushroom.field,2_mushroom.field_2014,Winter wheat,3792.880863,402.7758,2190.356728,18.76
+2_newton.grange.bottom,2_newton.grange.bottom_2004,Barley,2215.902454,30.75,1083.827652,3.752
+2_newton.grange.bottom,2_newton.grange.bottom_2005,Other,2181.400454,0,1083.827652,0
+2_newton.grange.bottom,2_newton.grange.bottom_2006,Winter wheat,2514.668074,30.75,1250.884535,3.752
+2_newton.grange.bottom,2_newton.grange.bottom_2007,Winter wheat,2215.902454,30.75,1083.827652,3.752
+2_newton.grange.bottom,2_newton.grange.bottom_2008,Barley,1980.183845,30.75,957.8663227,3.752
+2_newton.grange.bottom,2_newton.grange.bottom_2009,Other,2311.904454,123,1083.827652,7.504
+2_newton.grange.bottom,2_newton.grange.bottom_2010,Winter wheat,2863.591433,161.95,1373.29807,11.256
+2_newton.grange.bottom,2_newton.grange.bottom_2011,Winter wheat,2653.372074,161.95,1250.884535,11.256
+2_newton.grange.bottom,2_newton.grange.bottom_2012,Barley,2343.474454,154.57,1083.827652,7.504
+2_newton.grange.bottom,2_newton.grange.bottom_2013,Other,2393.904454,205,1083.827652,7.504
+2_newton.grange.bottom,2_newton.grange.bottom_2014,Winter wheat,2946.411433,244.77,1373.29807,11.256
+2_orchard.field,2_orchard.field_2011,Other,2399.30913,184.5,1228.27019,7.504
+2_orchard.field,2_orchard.field_2012,Winter wheat,2088.729744,52.48,1124.345755,7.504
+2_orchard.field,2_orchard.field_2013,Other,2193.648805,198.44,1100.865981,7.504
+2_orchard.field,2_orchard.field_2014,Winter wheat,2205.019312,71.34,1178.510702,11.256
+2_orchard.field,2_orchard.field_2015,Barley,2034.828368,173.02,1021.42562,15.008
+2_rosses,2_rosses_2006,Winter wheat,1776.342039,184.5,710.0317968,3.752
+2_rosses,2_rosses_2007,Winter wheat,1776.342039,184.5,710.0317968,3.752
+2_rosses,2_rosses_2008,Winter wheat,1776.342039,184.5,710.0317968,3.752
+2_rosses,2_rosses_2009,Winter wheat,1608.242039,16.4,710.0317968,3.752
+2_rosses,2_rosses_2010,Winter wheat,1694.342039,102.5,710.0317968,3.752
+2_rosses,2_rosses_2011,Winter wheat,1527.900358,16.4,673.5930286,3.752
+2_rosses,2_rosses_2012,Winter wheat,1816.258122,139.4,747.3929681,7.504
+2_rosses,2_rosses_2013,Spring wheat,1280.658422,5.125,569.3348284,3.752
+2_rosses,2_rosses_2014,Winter wheat,1717.858122,41,747.3929681,7.504
+2_sids.and.the.linings,2_sids.and.the.linings_2004,Dry Bean,519.2612917,287,221.0052917,11.256
+2_sids.and.the.linings,2_sids.and.the.linings_2005,Winter wheat,1946.116924,246,911.7793799,11.256
+2_sids.and.the.linings,2_sids.and.the.linings_2006,Winter wheat,2811.127296,143.5,1470.992669,11.256
+2_sids.and.the.linings,2_sids.and.the.linings_2007,Barley,1829.02376,282.9,828.6691669,15.008
+2_sids.and.the.linings,2_sids.and.the.linings_2008,Barley,1685.87176,143.5,828.6691669,11.256
+2_sids.and.the.linings,2_sids.and.the.linings_2009,Barley,1856.815122,268.55,852.6110722,11.256
+2_sids.and.the.linings,2_sids.and.the.linings_2010,Barley,2146.89776,593.27,828.6691669,22.512
+2_sids.and.the.linings,2_sids.and.the.linings_2011,Other,1212.350471,180.974,569.8353498,22.512
+2_sids.and.the.linings,2_sids.and.the.linings_2012,Winter wheat,3011.430555,231.035,1536.744308,18.76
+2_sids.and.the.linings,2_sids.and.the.linings_2013,Other,1372.898748,172.815,650.7368034,22.512
+2_sids.and.the.linings,2_sids.and.the.linings_2014,Winter wheat,2193.980185,218.94,1060.022487,15.008
+2_thors_manor_3,2_thors_manor_3_2004,Other,2242.675609,260.35,1089.259367,15.008
+2_thors_manor_3,2_thors_manor_3_2005,Winter wheat,2616.699996,426.4,1209.427931,15.008
+2_thors_manor_3,2_thors_manor_3_2006,Dry Bean,580.6759328,328,241.4199328,11.256
+2_thors_manor_3,2_thors_manor_3_2007,Winter wheat,2271.723609,293.15,1089.259367,11.256
+2_thors_manor_3,2_thors_manor_3_2008,Other,2177.423609,198.85,1089.259367,11.256
+2_thors_manor_3,2_thors_manor_3_2009,Other root crops,1453.897501,307.5,644.7054685,18.76
+2_thors_manor_3,2_thors_manor_3_2010,Barley,1899.613737,311.6,874.3111439,11.256
+2_thors_manor_3,2_thors_manor_3_2011,Other,2249.173609,270.6,1089.259367,11.256
+2_top.end.mill.lane,2_top.end.mill.lane_2005,Other,1409.423946,123,642.3277208,7.504
+2_top.end.mill.lane,2_top.end.mill.lane_2006,Winter wheat,1369.016525,41,661.9688432,7.504
+2_top.end.mill.lane,2_top.end.mill.lane_2007,Dry Bean,248.0613138,82,162.3093138,3.752
+2_top.end.mill.lane,2_top.end.mill.lane_2008,Winter wheat,1514.199519,98.4,702.0969253,11.256
+2_top.end.mill.lane,2_top.end.mill.lane_2009,Other,1394.836475,28.7,681.889338,3.752
+2_top.end.mill.lane,2_top.end.mill.lane_2010,Winter wheat,1453.047519,41,702.0969253,7.504
+2_top.end.mill.lane,2_top.end.mill.lane_2011,Other,1835.453588,377.2,722.5995387,11.256
+2_top.end.mill.lane,2_top.end.mill.lane_2012,Winter wheat,1649.788613,62.32,785.960195,11.256
+2_top.end.mill.lane,2_top.end.mill.lane_2013,Dry Bean,248.0613138,82,162.3093138,3.752
+2_top.end.mill.lane,2_top.end.mill.lane_2014,Winter wheat,1684.138689,16.4,829.8313594,3.752
+2_treasures,2_treasures_2004,Winter wheat,1748.6524,205.82,653.5181578,11.256
+2_treasures,2_treasures_2005,Barley,1515.872359,430.5,463.2275902,7.504
+2_treasures,2_treasures_2006,Other,1654.2284,118.9,653.5181578,3.752
+2_treasures,2_treasures_2007,Winter wheat,1651.52926,143.5,640.0281832,7.504
+2_treasures,2_treasures_2008,Winter wheat,1672.84926,164.82,640.0281832,7.504
+2_treasures,2_treasures_2009,Barley,1085.992109,125.05,413.4322899,7.504
+2_treasures,2_treasures_2010,Other,1778.289284,133.25,701.7649654,3.752
+2_treasures,2_treasures_2011,Winter wheat,1502.540035,36.9,623.3424145,3.752
+2_treasures,2_treasures_2012,Oats,960.0565356,20.91,404.8075905,7.504
+2_treasures,2_treasures_2013,Winter wheat,1521.469017,82.8487,610.1318613,7.504
+2_treasures,2_treasures_2014,Winter wheat,1889.331522,189.256,722.9554556,11.256
+arable,arable_2004,Other root crops,1877.962167,335.79,1017.890387,15.008
+arable,arable_2005,Winter wheat,2804.024919,16.4,1818.008853,3.752
+arable,arable_2006,Dry Bean,636.6088476,205,424.1048476,7.504
+arable,arable_2007,Winter wheat,2476.217232,206.23,1468.478814,11.256
+arable,arable_2008,Winter wheat,3083.358919,288.23,1818.008853,11.256
+arable,arable_2009,Other,2508.999222,164,1517.149057,11.256
+arable,arable_2010,Winter wheat,2240.594947,180.4,1337.07348,7.504
+arable,arable_2011,Winter wheat,1808.000017,307.91,993.3694019,15.008
+arable,arable_2012,Dry Bean,865.8608476,430.5,424.1048476,11.256
+arable,arable_2013,Winter wheat,2535.452604,143.5,1550.293274,7.504
+arable,arable_2014,Winter wheat,3037.98768,270.6,1799.048197,11.256
+big.boxhedge,big.boxhedge_2008,Grass-clover mix,32.0414382,0,32.0414382,0
+big.boxhedge,big.boxhedge_2009,Winter wheat,1689.506122,16.4,747.3929681,3.752
+big.boxhedge,big.boxhedge_2010,Dry Bean,157.2218943,51.25,102.2198943,3.752
+big.boxhedge,big.boxhedge_2011,Winter wheat,1717.858122,41,747.3929681,7.504
+big.gomish,big.gomish_2005,Winter wheat,2371.700896,512.91,921.8217419,15.008
+big.gomish,big.gomish_2006,Winter wheat,2099.808896,244.77,921.8217419,11.256
+big.gomish,big.gomish_2007,Other,2007.938992,207.46,893.6035852,11.256
+big.gomish,big.gomish_2008,Winter wheat,2073.916896,222.63,921.8217419,7.504
+big.gomish,big.gomish_2009,Winter wheat,1904.934896,57.4,921.8217419,3.752
+big.gomish,big.gomish_2010,Other,2128.478992,328,893.6035852,11.256
+big.gomish,big.gomish_2011,Winter wheat,2431.970896,573.18,921.8217419,15.008
+big.gomish,big.gomish_2012,Other,2318.432992,510.45,893.6035852,18.76
+big.gomish,big.gomish_2013,Winter wheat,2231.766896,380.48,921.8217419,7.504
+big.gomish,big.gomish_2014,Winter wheat,2235.990896,377.2,921.8217419,15.008
+bilses.hill,bilses.hill_2009,Dry Bean,105.9718943,0,102.2198943,3.752
+bilses.hill,bilses.hill_2010,Winter wheat,905.5946323,16.4,406.9008906,3.752
+bilses.hill,bilses.hill_2011,Barley,658.0437927,0,315.6010784,0
+bilses.hill,bilses.hill_2012,Barley,1369.791142,16.4,603.2896367,3.752
+bilses.hill,bilses.hill_2013,Barley,547.3335893,83.23,237.0850289,7.504
+bilses.hill,bilses.hill_2014,Barley,1288.289113,20.5,565.9808106,3.752
+clay.hill,clay.hill_2004,Winter wheat,1559.978712,5.74,756.4822949,7.504
+clay.hill,clay.hill_2005,Other legume,434.2181573,262.4,160.5621573,11.256
+clay.hill,clay.hill_2006,Winter wheat,2010.952423,406.31,777.4305493,15.008
+clay.hill,clay.hill_2007,Other,1510.858114,125.05,675.8575202,7.504
+clay.hill,clay.hill_2008,Winter wheat,1783.524586,139.4,798.7132565,11.256
+clay.hill,clay.hill_2009,Other,1724.040712,166.05,756.4822949,11.256
+clay.hill,clay.hill_2010,Winter wheat,1948.127499,172.2,864.6618014,11.256
+clay.hill,clay.hill_2011,Winter wheat,1870.952495,131.815,842.3192536,18.76
+clay.hill,clay.hill_2012,Other,2077.387495,338.25,842.3192536,18.76
+clay.hill,clay.hill_2013,Winter wheat,1704.073712,146.083,756.4822949,11.256
+clay.hill,clay.hill_2014,Winter wheat,2202.592543,365.515,891.966098,18.76
+common.green.end,common.green.end_2005,Winter wheat,1949.331162,195.16,820.9540082,11.256
+common.green.end,common.green.end_2006,Other,1817.43153,122.18,795.8801233,3.752
+common.green.end,common.green.end_2007,Winter wheat,2418.905162,657.23,820.9540082,18.76
+common.green.end,common.green.end_2008,Winter wheat,2002.631162,248.46,820.9540082,11.256
+common.green.end,common.green.end_2009,Other,1864.23353,165.23,795.8801233,7.504
+common.green.end,common.green.end_2010,Winter wheat,1866.039162,115.62,820.9540082,7.504
+common.green.end,common.green.end_2011,Winter wheat,1903.287162,156.62,820.9540082,3.752
+common.green.end,common.green.end_2012,Other,1959.82553,257.07,795.8801233,11.256
+common.green.end,common.green.end_2013,Winter wheat,2344.285162,582.61,820.9540082,18.76
+common.green.end,common.green.end_2014,Winter wheat,2086.271162,332.1,820.9540082,11.256
+grimoldbys,grimoldbys_2004,Winter wheat,2709.319493,226.32,1571.733795,11.256
+grimoldbys,grimoldbys_2005,Barley,2355.230816,164,1388.445816,3.752
+grimoldbys,grimoldbys_2006,Other,2791.645727,188.6,1648.515409,15.008
+grimoldbys,grimoldbys_2007,Winter wheat,2741.647493,262.4,1571.733795,7.504
+grimoldbys,grimoldbys_2008,Winter wheat,3146.568149,225.5,1868.674842,7.504
+grimoldbys,grimoldbys_2009,Winter wheat,3076.505192,16.4,1967.560972,3.752
+grimoldbys,grimoldbys_2010,Barley,2426.088519,246.82,1380.873811,3.752
+grimoldbys,grimoldbys_2011,Other,2957.55417,147.6,1792.683192,7.504
+grimoldbys,grimoldbys_2012,Winter wheat,2973.716795,295.2,1701.396729,11.256
+grimoldbys,grimoldbys_2013,Other,3307.982565,229.6,1977.696054,7.504
+grimoldbys,grimoldbys_2014,Winter wheat,3176.641139,213.2,1897.876958,7.504
+little.great.close,little.great.close_2004,Barley,1400.664398,328,481.251667,7.504
+little.great.close,little.great.close_2005,Other,2025.115963,98.4,865.5420728,7.504
+little.great.close,little.great.close_2006,Winter wheat,1646.208972,110.7,684.4307686,3.752
+little.great.close,little.great.close_2007,Winter wheat,2213.463953,205,907.1391506,3.752
+little.great.close,little.great.close_2008,Other,2103.89447,198.85,853.2894535,11.256
+little.great.close,little.great.close_2009,Winter wheat,1854.511154,226.525,724.8627473,7.504
+little.great.close,little.great.close_2010,Winter wheat,2155.406124,16.4,971.8269535,3.752
+little.great.close,little.great.close_2011,Other,2122.607604,209.1,857.362296,11.256
+little.great.close,little.great.close_2012,Winter wheat,2105.198263,342.35,785.7281972,11.256
+little.great.close,little.great.close_2013,Other,2105.021357,366.95,774.1221644,11.256
+little.great.close,little.great.close_2014,Winter wheat,2273.551986,385.4,845.177552,11.256
+maizys.laze,maizys.laze_2009,Barley,593.3242712,36.121,273.1109251,7.504
+maizys.laze,maizys.laze_2010,Barley,890.0351323,0.8405,406.9008906,3.752
+maizys.laze,maizys.laze_2011,Barley,1089.461376,1.6605,487.6075628,7.504
+maizys.laze,maizys.laze_2012,Barley,1001.111135,0,452.963025,3.752
+maizys.laze,maizys.laze_2013,Grass-clover mix,117.7934382,82,32.0414382,3.752
+maizys.laze,maizys.laze_2014,Winter wheat,1456.341018,16.4,641.5463097,3.752
+maizys.laze,maizys.laze_2015,Grass-clover mix,32.0414382,0,32.0414382,0
+middle.diff.align,middle.diff.align_2005,Winter wheat,1898.258122,221.4,747.3929681,7.504
+middle.diff.align,middle.diff.align_2006,Other,1701.051288,166.05,680.8093762,11.256
+middle.diff.align,middle.diff.align_2007,Winter wheat,2079.065526,303.4,793.5168773,7.504
+middle.diff.align,middle.diff.align_2008,Barley,882.5943979,63.55,376.9015682,7.504
+middle.diff.align,middle.diff.align_2009,Other,1897.904096,176.3,766.4354859,11.256
+middle.diff.align,middle.diff.align_2010,Winter wheat,1765.004358,246,673.5930286,11.256
+middle.lodge,middle.lodge_2004,Winter wheat,2191.837581,4.92,994.0349543,7.504
+middle.lodge,middle.lodge_2005,Other,1803.958122,127.1,747.3929681,7.504
+middle.lodge,middle.lodge_2006,Winter wheat,1609.900358,98.4,673.5930286,3.752
+middle.lodge,middle.lodge_2007,Winter wheat,2106.515953,94.3,907.1391506,7.504
+middle.lodge,middle.lodge_2008,Other,2131.367963,200.9,865.5420728,11.256
+middle.lodge,middle.lodge_2009,Winter wheat,1841.594039,246,710.0317968,7.504
+middle.lodge,middle.lodge_2010,Winter wheat,2068.064022,16.4,928.3877634,3.752
+middle.lodge,middle.lodge_2011,Other,2221.567963,291.1,865.5420728,11.256
+middle.lodge,middle.lodge_2012,Winter wheat,1851.496039,252.15,710.0317968,11.256
+middle.lodge,middle.lodge_2013,Other,1976.546039,377.2,710.0317968,11.256
+middle.lodge,middle.lodge_2014,Winter wheat,2482.117581,295.2,994.0349543,7.504
+pink.cottage.close,pink.cottage.close_2005,Winter wheat,1964.916263,205.82,785.7281972,7.504
+pink.cottage.close,pink.cottage.close_2006,Other,2024.662122,340.3,747.3929681,15.008
+pink.cottage.close,pink.cottage.close_2007,Winter wheat,2008.604096,287,766.4354859,11.256
+pink.cottage.close,pink.cottage.close_2008,Winter wheat,2069.867963,139.4,865.5420728,11.256
+pink.cottage.close,pink.cottage.close_2009,Other,2190.358096,461.25,766.4354859,18.76
+pink.cottage.close,pink.cottage.close_2010,Winter wheat,2031.826341,533,662.8338849,15.008
+pink.cottage.close,pink.cottage.close_2011,Winter wheat,2250.748263,487.9,785.7281972,11.256
+pink.cottage.close,pink.cottage.close_2012,Other,1869.178123,172.2,754.9803865,11.256
+pink.cottage.close,pink.cottage.close_2013,Winter wheat,1988.626617,345.015,728.5939196,15.008
+pink.cottage.close,pink.cottage.close_2014,Winter wheat,2405.986963,468.015,865.5420728,18.76
+rookery.one.and.two,rookery.one.and.two_2006,Winter wheat,1875.095555,159.9,961.342049,7.504
+rookery.one.and.two,rookery.one.and.two_2007,Other legume,427.3474773,164,255.8434773,7.504
+rookery.one.and.two,rookery.one.and.two_2008,Other root crops,1147.602447,65.6,627.9653265,15.008
+rookery.one.and.two,rookery.one.and.two_2009,Winter wheat,1679.280241,16.4,934.730192,3.752
+rookery.one.and.two,rookery.one.and.two_2010,Other,2132.191524,114.8,1131.829282,7.504
+rookery.one.and.two,rookery.one.and.two_2011,Winter wheat,2230.243524,209.1,1131.829282,11.256
+rookery.one.and.two,rookery.one.and.two_2012,Winter wheat,1957.311049,143.5,1016.054632,7.504
+rookery.one.and.two,rookery.one.and.two_2013,Other root crops,1246.002447,164,627.9653265,15.008
+slade,slade_2004,Winter wheat,1768.334423,167.444,777.4305493,11.256
+slade,slade_2005,Winter wheat,2396.326625,299.3,1032.100735,11.256
+slade,slade_2006,Other legume,442.4181573,270.6,160.5621573,11.256
+slade,slade_2007,Winter wheat,2102.976586,455.1,798.7132565,15.008
+slade,slade_2008,Winter wheat,1907.878586,256.25,798.7132565,18.76
+slade,slade_2009,Other legume,291.0661573,123,160.5621573,7.504
+slade,slade_2010,Winter wheat,1763.372586,123,798.7132565,7.504
+slade,slade_2011,Winter wheat,1882.527499,106.6,864.6618014,11.256
+slade,slade_2012,Other,1738.390712,180.4,756.4822949,11.256
+slade,slade_2013,Winter wheat,1844.642712,282.9,756.4822949,15.008
+slade,slade_2014,Winter wheat,2602.268454,398.356,1083.827652,22.512
+stones,stones_2004,Other,2840.118795,157.85,1701.396729,15.008
+stones,stones_2005,Winter wheat,2600.881737,181.22,1530.347496,11.256
+stones,stones_2006,Other legume,480.0384387,86.1,386.4344387,7.504
+stones,stones_2007,Spring wheat,2125.752069,190.65,1228.903475,3.752
+stones,stones_2008,Other,2801.516795,123,1701.396729,11.256
+stones,stones_2009,Winter wheat,2551.209737,135.3,1530.347496,7.504
+stones,stones_2010,Other,2796.513737,373.1,1530.347496,15.008
+stones,stones_2011,Winter wheat,2723.885867,180.4,1614.020713,7.504
+stones,stones_2012,Winter wheat,3319.50537,295.2,1937.428024,11.256
+stones,stones_2013,Other,3127.15337,106.6,1937.428024,7.504
+stones,stones_2014,Winter wheat,2887.964795,213.2,1701.396729,7.504
